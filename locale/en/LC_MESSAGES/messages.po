@@ -1,0 +1,351 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-06-06 20:27+0300\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: utils/messages.py:15
+msgid "Вы выбрали русский язык."
+msgstr "You have chosen English."
+
+#: utils/messages.py:17
+msgid ""
+"\n"
+"Здесь Вы можете получить ответы на самые распространённые вопросы, "
+"представленные ниже.\n"
+"\n"
+"Если у Вас возникли другие вопросы, Вы можете найти ответы на нашем сайте "
+"https://rfe.bsu.by/ или задайте их в чате.\n"
+msgstr ""
+"\n"
+"Here we can get answers to the most common questions.\n"
+"If you have any other questions, you can find answers on our website https://"
+"rfe.bsu.by/ or ask them in the chat.\n"
+
+#: utils/messages.py:25
+msgid "Проходной балл на факультет"
+msgstr "Passing score for faculty"
+
+#: utils/messages.py:25
+msgid ""
+"В 2020 году проходной балл на факультет составил 290 баллов.\n"
+"Проходные баллы по специальностям: \n"
+"РФ - 296, \n"
+"ФЭ - 290, \n"
+"КБ - 314, \n"
+"ПИ - 317, \n"
+"АРИСТ - 307.\n"
+"Подробнее можно прочитать на сайте https://rfe.bsu.by/abitur/priemnaya"
+msgstr ""
+"In 2020, the passing score for the faculty was 290 points.\n"
+"Passing scores in specialties: \n"
+"RF - 296, \n"
+"FE - 290, \n"
+"СS - 314, \n"
+"AM - 317, \n"
+"ARIST - 307. \n"
+"More details can be found on the website https://rfe.bsu.by/abitur/priemnaya"
+
+#: utils/messages.py:33
+msgid "Как проходит собеседование"
+msgstr "How is the interview going"
+
+#: utils/messages.py:33
+msgid ""
+"На собеседовании вызываются абитуриенты начиная с самого высокого рейтинга. "
+"Если на спец, на которую он написал первой в заявлении есть места, то он на "
+"неё записывается. Если нет мест, то предлагается выбрать любую из "
+"оставшихся, где есть свободные места."
+msgstr ""
+"Applicants are called at the interview starting with the highest rating. If "
+"there are places on the special for which he wrote first in the application, "
+"then he signs up for it. If there are no places, then it is proposed to "
+"choose any of the remaining ones, where there are free places."
+
+#: utils/messages.py:34
+msgid "Контакты деканата"
+msgstr "Dean's office contacts"
+
+#: utils/messages.py:34
+msgid ""
+"Декан: Малый Сергей Владимирович, доцент, кандидат физико-математических "
+"наук\n"
+"Адрес : 220064 Беларусь, г.Минск, ул. Курчатова, 5\n"
+"e-mail: maly@bsu.by \n"
+"Тел./факс: (+375-17) 209 58 18\n"
+"Как до нас добраться?\n"
+"1)Автобусом № 47c от ж/д вокзала (остановка \"Вокзал\") до остановки "
+"«Факультет радиофизики»;\n"
+"2)Автобусами №№ 96, 132 до остановки «Факультет радиофизики»;\n"
+"3)Автобусами №№ 28,  30с, 97, 104, 114, 144с до остановки «Поворот на филиал "
+"БГУ»/«Наполеона Орды»;\n"
+"4)Электричкой Столбцовского направления до ст. «Роща».\n"
+"5)На метро до конечной станции «Малиновка» + 10 минут ходьбы пешком (мимо "
+"гипермаркета ОМА) в сторону перехода под МКАД."
+msgstr ""
+"Dean: Maly Sergey Vladimirovich, Associate Professor, Candidate of Physical "
+"and Mathematical Sciences\n"
+"Address: 220064 Belarus, Minsk, st. Kurchatova, 5\n"
+"e-mail: maly@bsu.by\n"
+"Tel./fax: (+ 375-17) 209 58 18\n"
+"How to get to us?\n"
+"1) By bus No. 47c from the railway station (stop \"Vokzal\") to the stop"
+"\"Faculty of Radiophysics\";\n"
+"2) By buses No. 96, 132 to the stop \"Faculty of Radiophysics\";\n"
+"3) By buses No. 28, 30s, 97, 104, 114, 144s to the stop \"Pivot to the "
+"branch of BSU\" / \"Napoleon Orda\";\n"
+"4) By train Stolbtsovsky direction to the station. \"Grove\".\n"
+"5) By metro to the terminal station \"Malinovka\" + 10 minutes walk (past "
+"the OMA hypermarket) towards the passage under the Moscow Ring Road."
+
+#: utils/messages.py:44
+msgid "Как получить общежитие"
+msgstr "How to get a hostel"
+
+#: utils/messages.py:44
+msgid ""
+"Вся информация об общежитии будет на собеседовании с деканом\n"
+"АБСОЛЮТНО ВСЕМ желающим получить место в общежитии, вне зависимости от "
+"наличия или отсутствия льгот, необходимо иметь при себе справку о составе "
+"семьи и месте жительства. Абитуриентам, претендующим на льготы, необходимо "
+"иметь при себе копии подтверждающих документов.\n"
+"\n"
+"Перечень документов, необходимых для постановки на очередь: https://rfe.bsu."
+"by/media/docs/2020/internat.pdf"
+msgstr ""
+"All information about the hostel will be at the interview with the dean\n"
+"ABSOLUTELY EVERYONE wishing to get a place in a hostel, regardless of the "
+"presence or absence of benefits, must have a certificate of family "
+"composition and place of residence. Applicants applying for benefits must "
+"have copies of supporting documents with them.\n"
+"\n"
+"List of documents required for queuing: https://rfe.bsu.by/media/docs/2020/"
+"internat.pdf"
+
+#: utils/messages.py:48
+msgid "Заявление на общежитие"
+msgstr "Dormitory Application"
+
+#: utils/messages.py:48
+msgid ""
+"Заполненные бланки на общежитие нужно принести на собеседование с деканом. "
+"Бланки на заявление на общежитие можно скачать на нашем сайте по ссылке "
+"https://rfe.bsu.by/media/docs/2018/obrazec.doc"
+msgstr ""
+"Completed dormitory forms must be brought to the Dean's interview. Dormitory "
+"application forms can be downloaded on our website at the link https://rfe."
+"bsu.by/media/docs/2018/obrazec.doc"
+
+#: utils/messages.py:49
+msgid "Какие документы нужны для общежития"
+msgstr "What documents are needed for a hostel"
+
+#: utils/messages.py:49
+msgid ""
+"Подробнее ознакомится об общежитиях факультета можно на сайте : https://rfe."
+"bsu.by/abitur/priemnaya/obshejitie\n"
+"\n"
+"Перечень документов необходимых для получения: https://rfe.bsu.by/media/"
+"docs/2020/internat.pdf"
+msgstr ""
+"You can learn more about the faculty dormitories on the website: https://rfe."
+"bsu.by/abitur/priemnaya/obshejitie\n"
+"\n"
+"List of documents required for obtaining: https://rfe.bsu.by/media/docs/2020/"
+"internat.pdf"
+
+#: utils/messages.py:52
+msgid "Есть ли военная кафедра"
+msgstr "Is there a military department"
+
+#: utils/messages.py:52
+msgid ""
+"На факультете есть военная кафедра. На втором курсе идет отбор на военную "
+"кафедру по баллам успеваемости окончания первого курса. После первого года "
+"обучения на военной кафедре присваивается звание сержанта. По результатам "
+"окончания второго года обучения на военной кафедре можно перейти на "
+"офицерский уровень и получить погоны офицера запаса. Подробнее можно "
+"почитать здесь по ссылке https://rfe.bsu.by/abitur/voenka-bsu"
+msgstr ""
+"The faculty has a military department. In the second year, there is a "
+"selection for the military department according to the grades of the first "
+"year. After the first year of study at the military department, he is "
+"awarded the rank of sergeant. According to the results of the end of the "
+"second year of study at the military department, you can go to the officer "
+"level and receive the shoulder straps of a reserve officer. More details can "
+"be found here at the link https://rfe.bsu.by/abitur/voenka-bsu"
+
+#: utils/messages.py:53
+msgid "Заключение договоров"
+msgstr "Conclusion of contracts"
+
+#: utils/messages.py:53
+msgid ""
+"Договор бюджетной формы обучения заключается с иногородними абитуриентами "
+"через 2 часа после собеседования с деканом. Для минчан, поступивших на "
+"бюджет, договор заключается на следующий день после собеседования с деканом. "
+"На платную форму обучения договор подписывается через полтора - два часа "
+"после собеседования, но не позже чем 17:30. Дополнительная информация будет "
+"в новостях сайта rfe.bsu.by"
+msgstr ""
+"The contract for the budgetary form of education is concluded with "
+"applicants from other cities 2 hours after the interview with the dean. For "
+"the citizens of Minsk who are admitted to the budget, the contract is "
+"concluded the next day after the interview with the dean. For a paid form of "
+"training, the contract is signed one and a half to two hours after the "
+"interview, but no later than 17:30. Additional information will be in the "
+"news of the site rfe.bsu.by"
+
+#: utils/messages.py:54
+msgid "Адрес факультета"
+msgstr "Faculty address"
+
+#: utils/messages.py:54
+msgid "г. Минск, ул. Курчатова 5"
+msgstr "Minsk, st. Kurchatova 5"
+
+#: utils/messages.py:55
+msgid "Контакты приемной комиссии"
+msgstr "Contacts of the selection committee"
+
+#: utils/messages.py:55
+msgid ""
+"Почтовый адрес приемной комиссии БГУ\n"
+"220030, г. МИНСК, пр-т НЕЗАВИСИМОСТИ, 4\n"
+"Информационная служба БГУ \n"
+"г. МИНСК, ул. ЛЕНИНГРАДСКАЯ, 16, каб. 112\n"
+"\n"
+"Телефон информационной службы БГУ \n"
+"(+375-17) 209-50-85 (многоканальный)\n"
+"\n"
+"Адрес приемной комиссии факультета:\n"
+"г. Минск, ул. Ленинградская 16, к.102 (Корпус географического факультета "
+"БГУ)\n"
+"\n"
+"По вопросам приемной кампании можно обращаться по e-mail: \n"
+"Ушаков Дмитрий Владимирович, кандидат физико-математических наук, доцент\n"
+"\n"
+"e-mail: ushakovdv@bsu.by"
+msgstr ""
+"BSU admissions office mailing address\n"
+"220030, MINSK, PR-t INDEPENDENCE, 4\n"
+"BSU Information Service\n"
+"MINSK, st. LENINGRADSKAYA, 16, office. 112\n"
+"\n"
+"BSU information service phone number\n"
+"(+ 375-17) 209-50-85 (multichannel)\n"
+"\n"
+"Faculty admission office address:\n"
+"Minsk, st. Leningradskaya 16, room 102 (Building of the Faculty of "
+"Geography, BSU)\n"
+"\n"
+"For questions about the admission campaign, you can contact by e-mail:\n"
+"Dmitry Ushakov, candidate of physical and mathematical sciences, assistant "
+"professor\n"
+"\n"
+"email: ushakovdv@bsu.by"
+
+#: utils/messages.py:70
+msgid "Какова стоимость платного обучения"
+msgstr "What is the cost of paid education"
+
+#: utils/messages.py:70
+msgid ""
+"Актуальную стоимость можно узнать по ссылке https://bsu.by/sotrudnikam/kursy-"
+"i-obrazovatelnye-uslugi/obuchenie-studentov-magistrantov.php\n"
+"Оплата за обучение осуществляется четыре раза в год поквартально, в августе "
+"30%, ноябре 20%, фервраль 20%, май 30% от стоимости."
+msgstr ""
+"The current cost can be found at the link https://bsu.by/sotrudnikam/kursy-i-"
+"obrazovatelnye-uslugi/obuchenie-studentov-magistrantov.php\n"
+"Tuition fees are paid four times a year on a quarterly basis, in August 30%, "
+"November 20%, fairwal 20%, May 30% of the cost."
+
+#: utils/messages.py:72
+msgid "Отказываются ли от бюджетных мест"
+msgstr "Are budget places being rejected?"
+
+#: utils/messages.py:72
+msgid ""
+"Каждый год есть 2-3 человека которые отказываются от бюджетных мест. Иногда "
+"доходит даже до 5-ти человек."
+msgstr ""
+"Every year there are 2-3 people who refuse budget places. Sometimes it even "
+"reaches 5 people."
+
+#: utils/messages.py:73
+msgid "Даты приемной кампании"
+msgstr "Admission Campaign Dates"
+
+#: utils/messages.py:74
+msgid ""
+"Приемная кампания на бюджет с 25 июля по 30 июля. На платное с 25 июля по 16 "
+"августа. Время с 9:00 по 18:00, обед 13:00 - 14:00"
+msgstr ""
+"Admission campaign for the budget from July 25 to July 30. Paid from July 25 "
+"to August 16. Time from 9:00 to 18:00, lunch 13:00 - 14:00"
+
+#: utils/messages.py:75
+msgid "Как определяется проходной балл"
+msgstr "How the passing score is determined"
+
+#: utils/messages.py:76
+msgid ""
+"Проходной балл определяется исходя из цифр приема за исключением количества "
+"абитуриентов поступающих без экзамена и вне конкурса,\n"
+"т.е. пример: план набора на РФиКТ 205 человек, на факультет подало 7 "
+"абитуриентов без экзаменов и 1 вне конкурса. Таким образом 205 - 7 - 1 = "
+"197, т. е. ваш общий рейтинг должен быть не ниже 197 места"
+msgstr ""
+"The passing score is determined based on the admission numbers, with the "
+"exception of the number of applicants entering without an exam and out of "
+"competition,\n"
+"those. example: a plan of recruiting 205 people for RFiKT, 7 applicants "
+"submitted to the faculty without exams and 1 out of competition. Thus, 205 - "
+"7 - 1 = 197, i.e. your overall rating must be at least 197"
+
+#: utils/messages.py:78
+msgid "Бесплатная школа для подготовки к ЦТ"
+msgstr ""
+
+#: utils/messages.py:79
+msgid ""
+"Регистрация:\n"
+"Отправляем письмо на адрес: kolchevsky@bsu.by\n"
+"\n"
+"Тема письма: Регистрация в Школу для подготовки к ЦТ для поступающих на "
+"физическую электронику или радиофизику РФиКТ БГУ\n"
+"1. ФИО и дата рождения\n"
+"2. Город, Номер Школы\n"
+"3. Телефон\n"
+"4. E-mail\n"
+"5. Средний балл\n"
+"\n"
+"Для приславших баллы ЦТ (копии сертификатов о прохождении ЦТ) будет работать "
+"ИНДИВИДУАЛЬНАЯ ПОДДЕРЖКА при поступлении на факультет радиофизики и "
+"компьютерных технологий БГУ.\n"
+"\n"
+"Как подключиться?\n"
+"Занятия проходят в программе Discord (необходимо установить на телефон и/или "
+"компьютер)\n"
+"Ссылка для подключения будет отправлена по E-mail после регистрации\n"
+"Для занятий необходимы чистые листы формата А4\n"
+"В чат занятий можно отправлять задачи которые непонятны и нужно решение - "
+"будем разбирать\n"
+"\n"
+"Более подробная информация на сайте:\n"
+"https://rfe.bsu.by/novosti-abiturientam/~showNews/School%202021"
+msgstr ""
